@@ -1,2 +1,5 @@
 s="sandhiya"
 type(s)
+v="string"
+type(v)
+
